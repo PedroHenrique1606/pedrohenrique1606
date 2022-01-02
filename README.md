@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="ph-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/817875697557176340/927257270109212682">
+  <img align="right" alt="ph-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95871323/147884911-8d144afd-24b3-4b17-8716-6caa1b3971fa.png">
 </div>
   
   ##
